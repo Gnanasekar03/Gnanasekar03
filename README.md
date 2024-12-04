@@ -2,7 +2,7 @@
 
 Freelancer
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio]([https://hareesh.web.app/](https://gnanasekarportfolio.netlify.app/))                                                 
+- 🔭 Here's my [portfolio](https://gnanasekarportfolio.netlify.app/)                                                 
 - 🌱 I’m currently learning Data Structures and Algorithms (DSA) and honing my skills in the MERN stack (MongoDB, Express.js, React.js, Node.js).
 - 🤝 I’m looking to collaborate on exciting web development projects and grow alongside passionate developers.
 - 🚀 Actively seeking opportunities for a Front-End Developer role while continuing to work on freelance projects.
